@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tipTime</string>
+    <string name="valor_do_servico">Valor do Serviço</string>
+    <string name="service_question">Como foi o serviço?</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="ok_15">OK (15%)</string>
+    <string name="arredondar_gorgeta">Arredondar Gorgeta?</string>
+    <string name="calcular">Calcular</string>
+    <string name="total">Total</string>
+    <string name="tip_amount">Total: %s</string>
+
+</resources>
